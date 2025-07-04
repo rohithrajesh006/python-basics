@@ -81,4 +81,4 @@ elif age>18 and age<=60:
 elif age>60:
     print("Your ticket charge is",tckt_rate/2)
 else:
-    print("Age not enetered")
+    print("Age not specified")

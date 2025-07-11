@@ -54,11 +54,21 @@ for num in range(num1,num2+1):
 print(f"sum of numbers from {num1} to {num2} is {total}")"""
 
 
-print("to find how many vowels present in a word")
+"""print("to find how many vowels present in a word")
 word=str(input("Enter the word :"))
 vowels="aeiouAEIOU"
 no_vowels=0
 for a in word:
     if a in vowels:
         no_vowels+=1
-print("number of vowels is :",no_vowels)
+print("number of vowels is :",no_vowels)"""
+
+for num in range(1,11):
+    if num==3:
+        continue#
+    print(num)
+print("")
+for num in range(1,11):
+    if num==3:
+        break
+    print(num)

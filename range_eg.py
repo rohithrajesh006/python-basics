@@ -3,8 +3,8 @@ for a in range(11):
 
 print("")
 
-for b in range(1,11):
-    print(b)
+for b in range(1,10):
+    print(b+1)
 
 print("")
 
@@ -15,8 +15,9 @@ print("")
 for c in range(num):
     print(c)
 """
-num=int(input("Enter a number :"))
+"""num=int(input("Enter a number :"))
 for table in range(1,11):
     print(f"{num} * {table} = {num*table}")
+"""
 
 

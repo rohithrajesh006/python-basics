@@ -1,4 +1,4 @@
-while True:
+"""while True:
       num1=int(input("Enter first number :"))
       num2=int(input("Enter second number :"))
       print("1.Addition \n2.Substraction \n3.Multiplication \n4.Division")
@@ -17,4 +17,5 @@ while True:
       choice2=str(input("Do you want to continue (yes/no) :"))
 
       if choice2.lower()!="yes":
-         break
+         break"""
+

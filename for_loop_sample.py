@@ -63,12 +63,3 @@ for a in word:
         no_vowels+=1
 print("number of vowels is :",no_vowels)"""
 
-for num in range(1,11):
-    if num==3:
-        continue#
-    print(num)
-print("")
-for num in range(1,11):
-    if num==3:
-        break
-    print(num)

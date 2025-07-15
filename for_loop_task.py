@@ -33,10 +33,9 @@ for a in range(1,num+1):
 print(fact)
 """
 
-word=str(input("Enter a word"))
-letter=word
-no_letter=0
-for letter in word:
-    
+word=str(input("Enter a word :"))
+letter=
+
+   
     
         

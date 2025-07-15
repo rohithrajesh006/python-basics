@@ -52,6 +52,8 @@ result_part1=partition_text.partition('hi')#here the seperator is not present so
 print(result_part1)
 
 
-
+word="hello"
+letter=list(word)
+print(letter)
 
 

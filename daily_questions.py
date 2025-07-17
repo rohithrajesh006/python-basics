@@ -23,14 +23,12 @@ for b in range(5,0,-1):
         n-=1
     print()
     """
-"""row=4
-col=5
-for a in range(row):
-    for b in range(col):
-        if a==0 or a==row-1 or  b==0 or b==col-1:
+
+for a in range(4):
+    for b in range(5):
+        if a==0 or a==2:
             print("*",end="")
-        else:
-            print(" ",end="")
-    print()      
-"""
+        print()
+    
+
 

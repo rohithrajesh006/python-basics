@@ -24,11 +24,11 @@ for b in range(5,0,-1):
     print()
     """
 
-for a in range(4):
-    for b in range(5):
-        if a==0 or a==2:
+for a in range(1,5):
+    for b in range(1,5):
+        if a==1 or a==4 :
             print("*",end="")
-        print()
-    
+    print()
+
 
 

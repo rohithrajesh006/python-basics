@@ -63,16 +63,24 @@ for b in range(5,0,-1):
         print(k,end=" ")
         k=k+n
         n-=1
-    print()
-    """
-"""row=4
-col=5
-for a in range(row):
-    for b in range(col):
-        if a==0 or a==row-1 or  b==0 or b==col-1:
-            print("*",end="")
-        else:
-            print(" ",end="")
-    print()      
-"""
+    print()"""
+    
 
+"""for a in range(2,7):
+
+    b=a
+    
+    for k in range(2,a+1):
+        print(b,end=" ")
+        b=b+a
+       
+    print()"""
+
+"""c=1
+for r in range(2,7):
+    num=r
+    for k in range(c):
+        print(num,end=" ")
+        num+=r
+    print("")
+    c+=1"""

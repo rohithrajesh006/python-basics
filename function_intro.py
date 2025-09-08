@@ -51,7 +51,7 @@ else:
 """
 
 
-'''def total(num):
+"""def total(num):
     a=0
     for b in num:
         a=a+b
@@ -59,12 +59,20 @@ else:
 my_list=[1,2,3,4,5]
 d=total(my_list)
 print("average is",d/len(my_list))
-'''
+"""
 
+"""def sample(a,b):
+    return a,b
+print(sample(1,2))
+c,b=sample(3,2)
+print(c,b)"""
 
-
-
-
+a=1
+def new():
+    
+    a=2
+    print(a)
+new()
 
 
 

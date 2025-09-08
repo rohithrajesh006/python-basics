@@ -8,3 +8,8 @@ print(my_tuple.index(5))#shows the index number,gives error if the value is not 
 print(my_tuple[4])#using index number we can access values
 
 print(my_tuple[1:3])
+
+
+#len used to find the length of tuple and lists
+max()
+

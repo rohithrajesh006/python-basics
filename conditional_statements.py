@@ -25,16 +25,16 @@ else:
     print(leap_year,"is not a leap year")
     """
 
-"""weather=int(input("Enter the temperature :"))
+weather=int(input("Enter the temperature :"))
 
 if weather>=30:
     if weather>=35:
-        print("Its too hot,Take an umperlla with you!!")
+        print("Its too hot,Take an umberlla with you!!")
     else:
         print("Its hot outside")
 else:
     print("Safe to go outside")
-"""
+
 
 """
 num1=int(input("Enter firts number :"))
@@ -68,7 +68,7 @@ else:
      print("stay home")    
 """
 
-age=int(input("Enter your age:"))
+"""age=int(input("Enter your age:"))
 distance=int(input("Enter the distance(in km) :" ))
 
 tckt_rate=distance*10
@@ -81,4 +81,4 @@ elif age>18 and age<=60:
 elif age>60:
     print("Your ticket charge is",tckt_rate/2)
 else:
-    print("Age not specified")
+    print("Age not specified")"""

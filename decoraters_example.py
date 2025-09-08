@@ -1,4 +1,4 @@
-def swap(fun):
+"""def swap(fun):
     def wrapper(A,B):
         if A<B:
             A,B=B,A
@@ -9,4 +9,5 @@ def swap(fun):
 def subtract(a,b):
     c=a-b
     print(c)
-subtract(5,10)
+subtract(5,10)"""
+
